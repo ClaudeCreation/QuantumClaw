@@ -1,5 +1,6 @@
 <p align="center">
-  <img width="380" height="350" alt="Quantum Claw" src="https://github.com/user-attachments/assets/90cea358-42db-4cfc-b436-87f4415fd535" />
+  <img width="146" height="141" alt="Screenshot 2026-03-31 110654" src="https://github.com/user-attachments/assets/5ba3cba8-ad33-431f-b3ef-e6a0ba46deaf" />
+
 </p>
 
 <h1 align="center">QuantumClaw — QLAW</h1>
