@@ -1,0 +1,19 @@
+{
+  "name": "quantumclaw",
+  "version": "0.1.0",
+  "description": "QuantumClaw — Multi-agent quantum decision engine built on OpenClaw",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "ai",
+    "trading",
+    "multi-agent",
+    "quantum",
+    "openclaw"
+  ],
+  "author": "OpenClaw",
+  "license": "MIT"
+}
