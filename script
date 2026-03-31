@@ -1,0 +1,3 @@
+import { detectSignals } from "../agents/signalAgent.js";
+
+console.log(detectSignals());
